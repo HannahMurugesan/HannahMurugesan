@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HannahMurugesan
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics course in Edubridge
-- 💞️ I’m looking to collaborate on Projects related to Data Analytics
+- 👀 I’m interested in web Development and Data Analytics
+- 🌱 I’m currently working at Lenovo as Web Developer
+- 💞️ I’m looking to collaborate on Projects related to Data Analytics or web development
 - 📫 How to reach me @hannahbtech97@gmail.com
 
 <!---
